@@ -1,0 +1,61 @@
+PROJECT Project Tree Generated on 2025-09-01 13:39:33
+Root: 
+(c) 2024 Hans Hendrickx - MIT License
+Professional Folder Tree Generator
+
+Project Structure Legend:
+📂 - Key Project Directory
+📁 - Regular Directory
+🐍 - Python Source File
+📓 - Jupyter Notebook
+📝 - Markdown File
+📊 - Excel or CSV File
+📄 - PDF File
+📃 - Word Document
+⚙️ - Batch/Script File
+🔧 - JSON or Config File
+🖼️ - Image File
+🎵 - Audio File
+🎬 - Video File
+--------------------------------------------------------------------------------
+
+📂 JPNB-Folder/
+├─ 📂 assets/
+├─ 📁 JPNBLab/
+├─ 📁 Media/
+├─ 📂 notebooks/
+│ ├─ 📂 examples/
+│ │ └─ 📓 hello.ipynb
+│ └─ 📁 medical-tools/
+├─ 📁 py-env/
+│ ├─ 📁 etc/
+│ │ └─ 📁 jupyter/
+│ ├─ 📁 Include/
+│ ├─ 📂 Lib/
+│ │ └─ 📁 site-packages/
+│ ├─ 📂 Scripts/
+│ │ ├─ 📁 __pycache__/
+│ │ ├─ 📄 activate
+│ │ ├─ ⚙️ activate.bat
+│ │ ├─ 📄 activate.fish
+│ │ ├─ 💻 Activate.ps1
+│ │ ├─ ⚙️ deactivate.bat
+│ │ └─ ... (59 more files)
+│ ├─ 📁 share/
+│ │ ├─ 📁 applications/
+│ │ ├─ 📁 icons/
+│ │ ├─ 📁 jupyter/
+│ │ └─ 📁 man/
+│ └─ 📄 pyvenv.cfg
+├─ 📁 shared/
+├─ 🐍 Folder_Tree.py
+├─ ⚙️ Folder_Tree_Claude.bat
+├─ 🐍 Folder_Tree_Claude.py
+├─ 🐍 Folder_Tree_Claude_shorter.py
+├─ 📝 Folder_Tree_Claude_Shorter_README.md
+└─ ... (13 more files)
+
+--------------------------------------------------------------------------------
+Total Folders: 21
+Total Files: 12
+Total Size: 120.9 KB

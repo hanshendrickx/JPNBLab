@@ -1,0 +1,126 @@
+PROJECT Project Tree Generated on 2025-09-01 12:54:07
+Root: 
+(c) 2024 Hans Hendrickx - MIT License
+Professional Folder Tree Generator
+
+Project Structure Legend:
+📂 - Key Project Directory
+📁 - Regular Directory
+🐍 - Python Source File
+📓 - Jupyter Notebook
+📝 - Markdown File
+📊 - Excel or CSV File
+📄 - PDF File
+📃 - Word Document
+⚙️ - Batch/Script File
+🔧 - JSON or Config File
+🖼️ - Image File
+🎵 - Audio File
+🎬 - Video File
+--------------------------------------------------------------------------------
+
+📂 JPNB-Folder/ (387.6 MB)
+├─ 📂 assets/
+├─ 📂 HELPFILES/
+│ └─ 📄 project_structure.txt (103.2 KB)
+├─ 📁 JPNBLab/
+├─ 📁 Media/
+├─ 📂 notebooks/
+│ ├─ 📂 examples/
+│ │ └─ 📓 hello.ipynb (32.0 B)
+│ └─ 📁 medical-tools/
+├─ 📁 py-env/
+│ ├─ 📁 etc/
+│ │ └─ 📁 jupyter/
+│ ├─ 📁 Include/
+│ ├─ 📂 Lib/
+│ │ └─ 📁 site-packages/
+│ ├─ 📂 Scripts/
+│ │ ├─ 📁 __pycache__/
+│ │ ├─ 📄 activate (2.1 KB)
+│ │ ├─ ⚙️ activate.bat (1013.0 B)
+│ │ ├─ 📄 activate.fish (2.2 KB)
+│ │ ├─ 💻 Activate.ps1 (8.8 KB)
+│ │ ├─ ⚙️ deactivate.bat (393.0 B)
+│ │ ├─ ⚙️ debugpy-adapter.exe (105.8 KB)
+│ │ ├─ ⚙️ debugpy.exe (105.8 KB)
+│ │ ├─ ⚙️ docutils.exe (105.8 KB)
+│ │ ├─ ⚙️ dotenv.exe (105.8 KB)
+│ │ ├─ ⚙️ fastapi.exe (105.8 KB)
+│ │ ├─ ⚙️ httpx.exe (105.8 KB)
+│ │ ├─ ⚙️ ipython.exe (105.8 KB)
+│ │ ├─ ⚙️ ipython3.exe (105.8 KB)
+│ │ ├─ ⚙️ jlpm.exe (105.8 KB)
+│ │ ├─ 📄 jsonpointer (1.8 KB)
+│ │ ├─ ⚙️ jsonschema.exe (105.8 KB)
+│ │ ├─ ⚙️ jupyter-console.exe (105.8 KB)
+│ │ ├─ ⚙️ jupyter-dejavu.exe (105.9 KB)
+│ │ ├─ ⚙️ jupyter-events.exe (105.8 KB)
+│ │ ├─ ⚙️ jupyter-execute.exe (105.8 KB)
+│ │ ├─ ⚙️ jupyter-kernel.exe (105.8 KB)
+│ │ ├─ ⚙️ jupyter-kernelspec.exe (105.9 KB)
+│ │ ├─ ⚙️ jupyter-lab.exe (105.8 KB)
+│ │ ├─ ⚙️ jupyter-labextension.exe (105.8 KB)
+│ │ ├─ ⚙️ jupyter-labhub.exe (105.8 KB)
+│ │ ├─ ⚙️ jupyter-migrate.exe (105.8 KB)
+│ │ ├─ ⚙️ jupyter-nbconvert.exe (105.8 KB)
+│ │ ├─ ⚙️ jupyter-notebook.exe (105.8 KB)
+│ │ ├─ ⚙️ jupyter-run.exe (105.9 KB)
+│ │ ├─ ⚙️ jupyter-server.exe (105.8 KB)
+│ │ ├─ ⚙️ jupyter-troubleshoot.exe (105.8 KB)
+│ │ ├─ ⚙️ jupyter-trust.exe (105.9 KB)
+│ │ ├─ ⚙️ jupyter.exe (105.8 KB)
+│ │ ├─ ⚙️ markdown2.exe (105.8 KB)
+│ │ ├─ ⚙️ nicegui-pack.exe (105.8 KB)
+│ │ ├─ ⚙️ normalizer.exe (105.9 KB)
+│ │ ├─ ⚙️ pip.exe (105.8 KB)
+│ │ ├─ ⚙️ pip3.13.exe (105.8 KB)
+│ │ ├─ ⚙️ pip3.exe (105.8 KB)
+│ │ ├─ ⚙️ pybabel.exe (105.8 KB)
+│ │ ├─ ⚙️ pygmentize.exe (105.8 KB)
+│ │ ├─ ⚙️ pyjson5.exe (105.8 KB)
+│ │ ├─ ⚙️ python.exe (249.3 KB)
+│ │ ├─ ⚙️ pythonw.exe (245.8 KB)
+│ │ ├─ ⚙️ pywin32_postinstall.exe (105.9 KB)
+│ │ ├─ 🐍 pywin32_postinstall.py (25.1 KB)
+│ │ ├─ ⚙️ pywin32_testall.exe (105.8 KB)
+│ │ ├─ 🐍 pywin32_testall.py (3.8 KB)
+│ │ ├─ ⚙️ rst2html.exe (105.8 KB)
+│ │ ├─ ⚙️ rst2html4.exe (105.8 KB)
+│ │ ├─ ⚙️ rst2html5.exe (105.8 KB)
+│ │ ├─ ⚙️ rst2latex.exe (105.8 KB)
+│ │ ├─ ⚙️ rst2man.exe (105.8 KB)
+│ │ ├─ ⚙️ rst2odt.exe (105.8 KB)
+│ │ ├─ ⚙️ rst2pseudoxml.exe (105.9 KB)
+│ │ ├─ ⚙️ rst2s5.exe (105.8 KB)
+│ │ ├─ ⚙️ rst2xetex.exe (105.8 KB)
+│ │ ├─ ⚙️ rst2xml.exe (105.8 KB)
+│ │ ├─ ⚙️ send2trash.exe (105.8 KB)
+│ │ ├─ ⚙️ uvicorn.exe (105.8 KB)
+│ │ ├─ ⚙️ voila.exe (105.8 KB)
+│ │ ├─ ⚙️ watchfiles.exe (105.8 KB)
+│ │ ├─ ⚙️ websockets.exe (105.8 KB)
+│ │ └─ ⚙️ wsdump.exe (105.8 KB)
+│ ├─ 📁 share/
+│ │ ├─ 📁 applications/
+│ │ ├─ 📁 icons/
+│ │ ├─ 📁 jupyter/
+│ │ └─ 📁 man/
+│ └─ 📄 pyvenv.cfg (318.0 B)
+├─ 📁 shared/
+├─ 🐍 Folder_Tree_Claude.py (21.9 KB)
+├─ ⚙️ github-New-NAME.bat (443.0 B)
+├─ ⚙️ github-push-daily.bat (938.0 B)
+├─ ⚙️ github-setup_firsttimeONLY.bat (938.0 B)
+├─ 🖼️ my_project_structure.png (129.4 KB)
+├─ 📝 readme-start-guide.md (2.8 KB)
+├─ 📝 README_start_run_batfiles.md (142.0 B)
+├─ 📄 README_start_run_batfiles.md.pdf (170.8 KB)
+├─ ⚙️ setup.bat (1.1 KB)
+├─ ⚙️ start-jupyter.bat (110.0 B)
+└─ 📓 test_folder_tree.ipynb (7.6 KB)
+
+--------------------------------------------------------------------------------
+Total Folders: 22
+Total Files: 78
+Total Size: 6.5 MB
